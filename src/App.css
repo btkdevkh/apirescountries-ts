@@ -1,0 +1,6 @@
+.active {
+  text-align: center !important;
+  padding: 10px !important;
+  background-color: crimson;
+  color: white !important;
+}
